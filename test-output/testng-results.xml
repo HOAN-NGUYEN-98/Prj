@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-11T07:43:05Z" name="Suite1" finished-at="2021-05-11T07:44:46Z" duration-ms="100931">
+    <groups>
+    </groups>
+    <test started-at="2021-05-11T07:43:05Z" name="Regression1" finished-at="2021-05-11T07:44:46Z" duration-ms="100931">
+      <class name="com.finalProject.RunAllProject">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:43:05Z" name="beforeMethod" finished-at="2021-05-11T07:43:09Z" duration-ms="4543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bai1()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:43:09Z" name="bai1" finished-at="2021-05-11T07:43:12Z" duration-ms="2481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bai1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:43:12Z" name="afterMethod" finished-at="2021-05-11T07:43:12Z" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:43:12Z" name="beforeMethod" finished-at="2021-05-11T07:43:15Z" duration-ms="3651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bai10()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:43:15Z" name="bai10" finished-at="2021-05-11T07:43:16Z" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bai10 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:43:16Z" name="afterMethod" finished-at="2021-05-11T07:43:16Z" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:43:16Z" name="beforeMethod" finished-at="2021-05-11T07:43:20Z" duration-ms="4230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bai11()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:43:20Z" name="bai11" finished-at="2021-05-11T07:43:27Z" duration-ms="6709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bai11 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:43:27Z" name="afterMethod" finished-at="2021-05-11T07:43:27Z" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:43:27Z" name="beforeMethod" finished-at="2021-05-11T07:43:31Z" duration-ms="4140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bai13()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:43:31Z" name="bai13" finished-at="2021-05-11T07:44:02Z" duration-ms="31348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bai13 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:02Z" name="afterMethod" finished-at="2021-05-11T07:44:02Z" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:02Z" name="beforeMethod" finished-at="2021-05-11T07:44:06Z" duration-ms="3714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bai14()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:06Z" name="bai14" finished-at="2021-05-11T07:44:12Z" duration-ms="6636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bai14 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:12Z" name="afterMethod" finished-at="2021-05-11T07:44:13Z" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:13Z" name="beforeMethod" finished-at="2021-05-11T07:44:17Z" duration-ms="4035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bai3()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:17Z" name="bai3" finished-at="2021-05-11T07:44:20Z" duration-ms="2972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bai3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:20Z" name="afterMethod" finished-at="2021-05-11T07:44:20Z" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:20Z" name="beforeMethod" finished-at="2021-05-11T07:44:24Z" duration-ms="3961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bai4()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:24Z" name="bai4" finished-at="2021-05-11T07:44:24Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bai4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:24Z" name="afterMethod" finished-at="2021-05-11T07:44:24Z" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:24Z" name="beforeMethod" finished-at="2021-05-11T07:44:28Z" duration-ms="4168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bai5()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:28Z" name="bai5" finished-at="2021-05-11T07:44:28Z" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bai5 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:28Z" name="afterMethod" finished-at="2021-05-11T07:44:28Z" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:28Z" name="beforeMethod" finished-at="2021-05-11T07:44:32Z" duration-ms="3956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bai6()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:32Z" name="bai6" finished-at="2021-05-11T07:44:37Z" duration-ms="4649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bai6 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:37Z" name="afterMethod" finished-at="2021-05-11T07:44:37Z" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:37Z" name="beforeMethod" finished-at="2021-05-11T07:44:41Z" duration-ms="4415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bai7()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:41Z" name="bai7" finished-at="2021-05-11T07:44:45Z" duration-ms="4359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bai7 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.finalProject.RunAllProject@4f18837a]" started-at="2021-05-11T07:44:45Z" name="afterMethod" finished-at="2021-05-11T07:44:46Z" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.finalProject.RunAllProject -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
